@@ -42,7 +42,7 @@ Once compiled, this component can be used in HTML just like any other tag.
 <my-first-component name="Max"></my-first-component>
 ```
 
-> Web Components must have a - in the tag. `firstComponent` would not be a valid tag name.
+> Web Components must have a - in the tag. `first` or `firstComponent` would not be valid tag names.
 
 When rendered, the browser will display `My name is Max`.
 
